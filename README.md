@@ -15,3 +15,9 @@ $ pip install stdiomask
 $ pip install bs4 
 
 $ pip install rich
+
+$ clone https://github.com/Alipcrack/crackfb
+
+$ cd crackfb
+
+$ python crackfb.py
