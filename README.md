@@ -16,7 +16,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ clone https://github.com/Alipcrack/crackfb
+$ git clone https://github.com/Alipcrack/crackfb
 
 $ cd crackfb
 
